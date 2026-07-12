@@ -1,6 +1,7 @@
 {
     "topics": [
-        "What an AI agent actually is: the ReAct pattern explained through a support-bot example"
+        "What an AI agent actually is: the ReAct pattern explained through a support-bot example",
+        "Tool calling from scratch: giving an LLM 'hands' without any framework, in plain Python"
     ],
     "posts": [
         {
@@ -9,6 +10,13 @@
             "title": "Day 1/30: ReAct Pattern Explained",
             "url": "https://dev.to/yashwanth_kasi/day-130-react-pattern-explained-3nbf",
             "ts": 1783844711
+        },
+        {
+            "day": 2,
+            "topic": "Tool calling from scratch: giving an LLM 'hands' without any framework, in plain Python",
+            "title": "Day 2/30: LLM Tool Calls",
+            "url": "https://dev.to/yashwanth_kasi/day-230-llm-tool-calls-1gnk",
+            "ts": 1783846484
         }
     ]
 }
