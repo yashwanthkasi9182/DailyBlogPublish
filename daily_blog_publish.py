@@ -11,8 +11,8 @@ load_dotenv()
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 DEVTO_API_KEY = os.environ.get("DEVTO_API_KEY")
 HISTORY_FILE = "history.json"
-print("GROQ_API_KEY:", GROQ_API_KEY)
-print("DEVTO_API_KEY:", DEVTO_API_KEY)
+# print("GROQ_API_KEY:", GROQ_API_KEY)
+# print("DEVTO_API_KEY:", DEVTO_API_KEY)
 
 def loadHistory():
     if os.path.exists(HISTORY_FILE):
@@ -241,7 +241,7 @@ def main():
         print("Metadata generated")
         print(f"  -> title: {metadata['title']}")
         print(f"  -> tags: {metadata['tags']}")
-        full_body = f"# {metadata['title']}\n\n{body}"
+        full_body = f"{body}"
         print(full_body)
         print("step 5: Publishing the article...")
         result = publish(metadata["title"], full_body, metadata["tags"], metadata["description"])
