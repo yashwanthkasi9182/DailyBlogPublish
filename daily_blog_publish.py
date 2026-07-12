@@ -11,8 +11,7 @@ load_dotenv()
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 DEV_API_KEY = os.environ.get("DEV_API_KEY")
 HISTORY_FILE = "history.json"
-print("GROQ_API_KEY:", GROQ_API_KEY)
-print("DEV_API_KEY:", DEV_API_KEY)
+
 
 def loadHistory():
     if os.path.exists(HISTORY_FILE):
