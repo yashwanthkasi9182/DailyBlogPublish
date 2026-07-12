@@ -9,9 +9,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
-DEV_API_KEY = os.environ.get("DEV_API_KEY")
+DEVTO_API_KEY = os.environ.get("DEVTO_API_KEY")
 HISTORY_FILE = "history.json"
-
+print("GROQ_API_KEY:", GROQ_API_KEY)
+print("DEVTO_API_KEY:", DEVTO_API_KEY)
 
 def loadHistory():
     if os.path.exists(HISTORY_FILE):
@@ -204,7 +205,7 @@ Return JSON with exactly these keys:
 # ---------- Step 4: Publisher ----------
 def publish(title, body_markdown, tags, description, published=True):
     url = "https://dev.to/api/articles"
-    headers = {"api-key": DEV_API_KEY, "Content-Type": "application/json"}
+    headers = {"api-key": DEVTO_API_KEY, "Content-Type": "application/json"}
     payload = {
         "article": {
             "title": title,
