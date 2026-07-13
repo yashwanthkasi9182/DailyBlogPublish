@@ -1,7 +1,8 @@
 {
     "topics": [
         "What an AI agent actually is: the ReAct pattern explained through a support-bot example",
-        "Tool calling from scratch: giving an LLM 'hands' without any framework, in plain Python"
+        "Tool calling from scratch: giving an LLM 'hands' without any framework, in plain Python",
+        "Why single-shot LLM calls break down: the context-window-as-to-do-list problem"
     ],
     "posts": [
         {
@@ -17,6 +18,13 @@
             "title": "Day 2/30: LLM Tool Calls",
             "url": "https://dev.to/yashwanth_kasi/day-230-llm-tool-calls-1gnk",
             "ts": 1783846484
+        },
+        {
+            "day": 3,
+            "topic": "Why single-shot LLM calls break down: the context-window-as-to-do-list problem",
+            "title": "Day 3/30: LLM Context Window Limits",
+            "url": "https://dev.to/yashwanth_kasi/day-330-llm-context-window-limits-1c29",
+            "ts": 1783922326
         }
     ]
 }
