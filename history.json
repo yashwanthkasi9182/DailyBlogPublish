@@ -2,7 +2,8 @@
     "topics": [
         "What an AI agent actually is: the ReAct pattern explained through a support-bot example",
         "Tool calling from scratch: giving an LLM 'hands' without any framework, in plain Python",
-        "Why single-shot LLM calls break down: the context-window-as-to-do-list problem"
+        "Why single-shot LLM calls break down: the context-window-as-to-do-list problem",
+        "Your first LangGraph agent: building a StateGraph that survives more than 2 turns"
     ],
     "posts": [
         {
@@ -25,6 +26,13 @@
             "title": "Day 3/30: LLM Context Window Limits",
             "url": "https://dev.to/yashwanth_kasi/day-330-llm-context-window-limits-1c29",
             "ts": 1783922326
+        },
+        {
+            "day": 4,
+            "topic": "Your first LangGraph agent: building a StateGraph that survives more than 2 turns",
+            "title": "Day 4/30: Persistent StateGraph",
+            "url": "https://dev.to/yashwanth_kasi/day-430-persistent-stategraph-1394",
+            "ts": 1784006490
         }
     ]
 }
