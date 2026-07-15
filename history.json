@@ -3,7 +3,8 @@
         "What an AI agent actually is: the ReAct pattern explained through a support-bot example",
         "Tool calling from scratch: giving an LLM 'hands' without any framework, in plain Python",
         "Why single-shot LLM calls break down: the context-window-as-to-do-list problem",
-        "Your first LangGraph agent: building a StateGraph that survives more than 2 turns"
+        "Your first LangGraph agent: building a StateGraph that survives more than 2 turns",
+        "State vs memory in LangGraph: the mistake that makes your agent forget who it's talking to"
     ],
     "posts": [
         {
@@ -33,6 +34,13 @@
             "title": "Day 4/30: Persistent StateGraph",
             "url": "https://dev.to/yashwanth_kasi/day-430-persistent-stategraph-1394",
             "ts": 1784006490
+        },
+        {
+            "day": 5,
+            "topic": "State vs memory in LangGraph: the mistake that makes your agent forget who it's talking to",
+            "title": "Day 5/30: State vs Memory in LangGraph",
+            "url": "https://dev.to/yashwanth_kasi/day-530-state-vs-memory-in-langgraph-565k",
+            "ts": 1784092959
         }
     ]
 }
