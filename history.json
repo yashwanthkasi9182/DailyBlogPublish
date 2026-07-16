@@ -4,7 +4,8 @@
         "Tool calling from scratch: giving an LLM 'hands' without any framework, in plain Python",
         "Why single-shot LLM calls break down: the context-window-as-to-do-list problem",
         "Your first LangGraph agent: building a StateGraph that survives more than 2 turns",
-        "State vs memory in LangGraph: the mistake that makes your agent forget who it's talking to"
+        "State vs memory in LangGraph: the mistake that makes your agent forget who it's talking to",
+        "Conditional edges in LangGraph: teaching an agent to branch instead of following a script"
     ],
     "posts": [
         {
@@ -41,6 +42,13 @@
             "title": "Day 5/30: State vs Memory in LangGraph",
             "url": "https://dev.to/yashwanth_kasi/day-530-state-vs-memory-in-langgraph-565k",
             "ts": 1784092959
+        },
+        {
+            "day": 6,
+            "topic": "Conditional edges in LangGraph: teaching an agent to branch instead of following a script",
+            "title": "Day 6/30: Conditional Edges in LangGraph",
+            "url": "https://dev.to/yashwanth_kasi/day-630-conditional-edges-in-langgraph-58ea",
+            "ts": 1784179895
         }
     ]
 }
