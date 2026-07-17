@@ -5,7 +5,8 @@
         "Why single-shot LLM calls break down: the context-window-as-to-do-list problem",
         "Your first LangGraph agent: building a StateGraph that survives more than 2 turns",
         "State vs memory in LangGraph: the mistake that makes your agent forget who it's talking to",
-        "Conditional edges in LangGraph: teaching an agent to branch instead of following a script"
+        "Conditional edges in LangGraph: teaching an agent to branch instead of following a script",
+        "Checkpointing in LangGraph: letting your agent crash mid-task and resume exactly where it left off"
     ],
     "posts": [
         {
@@ -49,6 +50,13 @@
             "title": "Day 6/30: Conditional Edges in LangGraph",
             "url": "https://dev.to/yashwanth_kasi/day-630-conditional-edges-in-langgraph-58ea",
             "ts": 1784179895
+        },
+        {
+            "day": 7,
+            "topic": "Checkpointing in LangGraph: letting your agent crash mid-task and resume exactly where it left off",
+            "title": "Day 7/30: Checkpointing in LangGraph",
+            "url": "https://dev.to/yashwanth_kasi/day-730-checkpointing-in-langgraph-3260",
+            "ts": 1784266373
         }
     ]
 }
