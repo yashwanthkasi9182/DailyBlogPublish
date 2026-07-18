@@ -6,7 +6,8 @@
         "Your first LangGraph agent: building a StateGraph that survives more than 2 turns",
         "State vs memory in LangGraph: the mistake that makes your agent forget who it's talking to",
         "Conditional edges in LangGraph: teaching an agent to branch instead of following a script",
-        "Checkpointing in LangGraph: letting your agent crash mid-task and resume exactly where it left off"
+        "Checkpointing in LangGraph: letting your agent crash mid-task and resume exactly where it left off",
+        "The ReAct loop inside LangGraph: reason, act, observe, repeat \u2014 with real tool failures included"
     ],
     "posts": [
         {
@@ -57,6 +58,13 @@
             "title": "Day 7/30: Checkpointing in LangGraph",
             "url": "https://dev.to/yashwanth_kasi/day-730-checkpointing-in-langgraph-3260",
             "ts": 1784266373
+        },
+        {
+            "day": 8,
+            "topic": "The ReAct loop inside LangGraph: reason, act, observe, repeat \u2014 with real tool failures included",
+            "title": "Day 8/30: ReAct Loop in LangGraph",
+            "url": "https://dev.to/yashwanth_kasi/day-830-react-loop-in-langgraph-4nm0",
+            "ts": 1784351767
         }
     ]
 }
