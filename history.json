@@ -7,7 +7,8 @@
         "State vs memory in LangGraph: the mistake that makes your agent forget who it's talking to",
         "Conditional edges in LangGraph: teaching an agent to branch instead of following a script",
         "Checkpointing in LangGraph: letting your agent crash mid-task and resume exactly where it left off",
-        "The ReAct loop inside LangGraph: reason, act, observe, repeat \u2014 with real tool failures included"
+        "The ReAct loop inside LangGraph: reason, act, observe, repeat \u2014 with real tool failures included",
+        "Human-in-the-loop agents: pausing execution to ask permission before something risky happens"
     ],
     "posts": [
         {
@@ -65,6 +66,13 @@
             "title": "Day 8/30: ReAct Loop in LangGraph",
             "url": "https://dev.to/yashwanth_kasi/day-830-react-loop-in-langgraph-4nm0",
             "ts": 1784351767
+        },
+        {
+            "day": 9,
+            "topic": "Human-in-the-loop agents: pausing execution to ask permission before something risky happens",
+            "title": "Day 9/30: Human-in-the-loop Agents",
+            "url": "https://dev.to/yashwanth_kasi/day-930-human-in-the-loop-agents-504a",
+            "ts": 1784439751
         }
     ]
 }
