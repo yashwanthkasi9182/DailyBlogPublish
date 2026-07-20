@@ -8,7 +8,8 @@
         "Conditional edges in LangGraph: teaching an agent to branch instead of following a script",
         "Checkpointing in LangGraph: letting your agent crash mid-task and resume exactly where it left off",
         "The ReAct loop inside LangGraph: reason, act, observe, repeat \u2014 with real tool failures included",
-        "Human-in-the-loop agents: pausing execution to ask permission before something risky happens"
+        "Human-in-the-loop agents: pausing execution to ask permission before something risky happens",
+        "Building a research agent that actually cites its sources instead of making them up"
     ],
     "posts": [
         {
@@ -73,6 +74,13 @@
             "title": "Day 9/30: Human-in-the-loop Agents",
             "url": "https://dev.to/yashwanth_kasi/day-930-human-in-the-loop-agents-504a",
             "ts": 1784439751
+        },
+        {
+            "day": 10,
+            "topic": "Building a research agent that actually cites its sources instead of making them up",
+            "title": "Day 10/30: Accurate Citations",
+            "url": "https://dev.to/yashwanth_kasi/day-1030-accurate-citations-4fm4",
+            "ts": 1784527202
         }
     ]
 }
