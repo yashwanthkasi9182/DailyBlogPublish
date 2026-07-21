@@ -9,7 +9,8 @@
         "Checkpointing in LangGraph: letting your agent crash mid-task and resume exactly where it left off",
         "The ReAct loop inside LangGraph: reason, act, observe, repeat \u2014 with real tool failures included",
         "Human-in-the-loop agents: pausing execution to ask permission before something risky happens",
-        "Building a research agent that actually cites its sources instead of making them up"
+        "Building a research agent that actually cites its sources instead of making them up",
+        "Handling hallucinated tool calls: what to do when the model invents a function that doesn't exist"
     ],
     "posts": [
         {
@@ -81,6 +82,13 @@
             "title": "Day 10/30: Accurate Citations",
             "url": "https://dev.to/yashwanth_kasi/day-1030-accurate-citations-4fm4",
             "ts": 1784527202
+        },
+        {
+            "day": 11,
+            "topic": "Handling hallucinated tool calls: what to do when the model invents a function that doesn't exist",
+            "title": "Day 11/30: Handling Hallucinated Tool Calls",
+            "url": "https://dev.to/yashwanth_kasi/day-1130-handling-hallucinated-tool-calls-3e67",
+            "ts": 1784612473
         }
     ]
 }
