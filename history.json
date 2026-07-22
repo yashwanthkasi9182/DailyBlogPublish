@@ -10,7 +10,8 @@
         "The ReAct loop inside LangGraph: reason, act, observe, repeat \u2014 with real tool failures included",
         "Human-in-the-loop agents: pausing execution to ask permission before something risky happens",
         "Building a research agent that actually cites its sources instead of making them up",
-        "Handling hallucinated tool calls: what to do when the model invents a function that doesn't exist"
+        "Handling hallucinated tool calls: what to do when the model invents a function that doesn't exist",
+        "Streaming an agent's reasoning to a frontend in real time instead of a loading spinner"
     ],
     "posts": [
         {
@@ -89,6 +90,13 @@
             "title": "Day 11/30: Handling Hallucinated Tool Calls",
             "url": "https://dev.to/yashwanth_kasi/day-1130-handling-hallucinated-tool-calls-3e67",
             "ts": 1784612473
+        },
+        {
+            "day": 12,
+            "topic": "Streaming an agent's reasoning to a frontend in real time instead of a loading spinner",
+            "title": "Day 12/30: Streaming Agent Reasoning",
+            "url": "https://dev.to/yashwanth_kasi/day-1230-streaming-agent-reasoning-2dfh",
+            "ts": 1784698800
         }
     ]
 }
