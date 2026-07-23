@@ -11,7 +11,8 @@
         "Human-in-the-loop agents: pausing execution to ask permission before something risky happens",
         "Building a research agent that actually cites its sources instead of making them up",
         "Handling hallucinated tool calls: what to do when the model invents a function that doesn't exist",
-        "Streaming an agent's reasoning to a frontend in real time instead of a loading spinner"
+        "Streaming an agent's reasoning to a frontend in real time instead of a loading spinner",
+        "Teaching an agent to self-correct: the reflection pattern with a critic node"
     ],
     "posts": [
         {
@@ -97,6 +98,13 @@
             "title": "Day 12/30: Streaming Agent Reasoning",
             "url": "https://dev.to/yashwanth_kasi/day-1230-streaming-agent-reasoning-2dfh",
             "ts": 1784698800
+        },
+        {
+            "day": 13,
+            "topic": "Teaching an agent to self-correct: the reflection pattern with a critic node",
+            "title": "Day 13/30: Teaching Self-Correction",
+            "url": "https://dev.to/yashwanth_kasi/day-1330-teaching-self-correction-4271",
+            "ts": 1784785495
         }
     ]
 }
