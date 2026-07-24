@@ -12,7 +12,8 @@
         "Building a research agent that actually cites its sources instead of making them up",
         "Handling hallucinated tool calls: what to do when the model invents a function that doesn't exist",
         "Streaming an agent's reasoning to a frontend in real time instead of a loading spinner",
-        "Teaching an agent to self-correct: the reflection pattern with a critic node"
+        "Teaching an agent to self-correct: the reflection pattern with a critic node",
+        "Debugging a LangGraph agent when you have no idea why it looped forever"
     ],
     "posts": [
         {
@@ -105,6 +106,13 @@
             "title": "Day 13/30: Teaching Self-Correction",
             "url": "https://dev.to/yashwanth_kasi/day-1330-teaching-self-correction-4271",
             "ts": 1784785495
+        },
+        {
+            "day": 14,
+            "topic": "Debugging a LangGraph agent when you have no idea why it looped forever",
+            "title": "Day 14/30: Debugging LangGraph Loops",
+            "url": "https://dev.to/yashwanth_kasi/day-1430-debugging-langgraph-loops-12o5",
+            "ts": 1784871660
         }
     ]
 }
