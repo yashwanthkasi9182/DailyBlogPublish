@@ -14,7 +14,8 @@
         "Streaming an agent's reasoning to a frontend in real time instead of a loading spinner",
         "Teaching an agent to self-correct: the reflection pattern with a critic node",
         "Debugging a LangGraph agent when you have no idea why it looped forever",
-        "Why one agent isn't enough: the case for specialist agents over one giant prompt"
+        "Why one agent isn't enough: the case for specialist agents over one giant prompt",
+        "The Supervisor pattern: a manager agent that delegates to specialized workers"
     ],
     "posts": [
         {
@@ -121,6 +122,13 @@
             "title": "Day 15/30: Specialist Agents Over Giant Prompts",
             "url": "https://dev.to/yashwanth_kasi/day-1530-specialist-agents-over-giant-prompts-3e5b",
             "ts": 1784957706
+        },
+        {
+            "day": 16,
+            "topic": "The Supervisor pattern: a manager agent that delegates to specialized workers",
+            "title": "Day 16/30: Supervisor Pattern",
+            "url": "https://dev.to/yashwanth_kasi/day-1630-supervisor-pattern-3ghc",
+            "ts": 1785045076
         }
     ]
 }
