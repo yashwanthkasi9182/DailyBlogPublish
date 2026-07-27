@@ -15,7 +15,8 @@
         "Teaching an agent to self-correct: the reflection pattern with a critic node",
         "Debugging a LangGraph agent when you have no idea why it looped forever",
         "Why one agent isn't enough: the case for specialist agents over one giant prompt",
-        "The Supervisor pattern: a manager agent that delegates to specialized workers"
+        "The Supervisor pattern: a manager agent that delegates to specialized workers",
+        "Orchestrator-worker with LangGraph's Send API: running agents in parallel correctly"
     ],
     "posts": [
         {
@@ -129,6 +130,13 @@
             "title": "Day 16/30: Supervisor Pattern",
             "url": "https://dev.to/yashwanth_kasi/day-1630-supervisor-pattern-3ghc",
             "ts": 1785045076
+        },
+        {
+            "day": 17,
+            "topic": "Orchestrator-worker with LangGraph's Send API: running agents in parallel correctly",
+            "title": "Day 17/30: Orchestrator-Worker with LangGraph",
+            "url": "https://dev.to/yashwanth_kasi/day-1730-orchestrator-worker-with-langgraph-5b30",
+            "ts": 1785133063
         }
     ]
 }
