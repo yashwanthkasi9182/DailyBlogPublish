@@ -16,7 +16,8 @@
         "Debugging a LangGraph agent when you have no idea why it looped forever",
         "Why one agent isn't enough: the case for specialist agents over one giant prompt",
         "The Supervisor pattern: a manager agent that delegates to specialized workers",
-        "Orchestrator-worker with LangGraph's Send API: running agents in parallel correctly"
+        "Orchestrator-worker with LangGraph's Send API: running agents in parallel correctly",
+        "Shared scratchpad vs isolated state: how to actually decide the way your agents talk to each other"
     ],
     "posts": [
         {
@@ -137,6 +138,13 @@
             "title": "Day 17/30: Orchestrator-Worker with LangGraph",
             "url": "https://dev.to/yashwanth_kasi/day-1730-orchestrator-worker-with-langgraph-5b30",
             "ts": 1785133063
+        },
+        {
+            "day": 18,
+            "topic": "Shared scratchpad vs isolated state: how to actually decide the way your agents talk to each other",
+            "title": "Day 18/30: Shared State in Agents",
+            "url": "https://dev.to/yashwanth_kasi/day-1830-shared-state-in-agents-cm5",
+            "ts": 1785217074
         }
     ]
 }
