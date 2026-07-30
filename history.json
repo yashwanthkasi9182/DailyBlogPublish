@@ -18,7 +18,8 @@
         "The Supervisor pattern: a manager agent that delegates to specialized workers",
         "Orchestrator-worker with LangGraph's Send API: running agents in parallel correctly",
         "Shared scratchpad vs isolated state: how to actually decide the way your agents talk to each other",
-        "Building a 3-agent content pipeline: researcher, writer, and editor agents working in sequence"
+        "Building a 3-agent content pipeline: researcher, writer, and editor agents working in sequence",
+        "When agents disagree: building a review/critique loop between two independent agents"
     ],
     "posts": [
         {
@@ -153,6 +154,13 @@
             "title": "Day 19/30: 3-Agent Content Pipeline",
             "url": "https://dev.to/yashwanth_kasi/day-1930-3-agent-content-pipeline-2okb",
             "ts": 1785303752
+        },
+        {
+            "day": 20,
+            "topic": "When agents disagree: building a review/critique loop between two independent agents",
+            "title": "Day 20/30: Agents in Disagreement",
+            "url": "https://dev.to/yashwanth_kasi/day-2030-agents-in-disagreement-2pop",
+            "ts": 1785389481
         }
     ]
 }
