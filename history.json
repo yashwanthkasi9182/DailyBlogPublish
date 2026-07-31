@@ -19,7 +19,8 @@
         "Orchestrator-worker with LangGraph's Send API: running agents in parallel correctly",
         "Shared scratchpad vs isolated state: how to actually decide the way your agents talk to each other",
         "Building a 3-agent content pipeline: researcher, writer, and editor agents working in sequence",
-        "When agents disagree: building a review/critique loop between two independent agents"
+        "When agents disagree: building a review/critique loop between two independent agents",
+        "Avoiding the multi-agent groupchat spiral: guardrails that stop agents talking in circles"
     ],
     "posts": [
         {
@@ -161,6 +162,13 @@
             "title": "Day 20/30: Agents in Disagreement",
             "url": "https://dev.to/yashwanth_kasi/day-2030-agents-in-disagreement-2pop",
             "ts": 1785389481
+        },
+        {
+            "day": 21,
+            "topic": "Avoiding the multi-agent groupchat spiral: guardrails that stop agents talking in circles",
+            "title": "Day 21/30: Avoiding Agent Loops",
+            "url": "https://dev.to/yashwanth_kasi/day-2130-avoiding-agent-loops-4hlk",
+            "ts": 1785477392
         }
     ]
 }
