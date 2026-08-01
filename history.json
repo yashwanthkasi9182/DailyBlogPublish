@@ -20,7 +20,8 @@
         "Shared scratchpad vs isolated state: how to actually decide the way your agents talk to each other",
         "Building a 3-agent content pipeline: researcher, writer, and editor agents working in sequence",
         "When agents disagree: building a review/critique loop between two independent agents",
-        "Avoiding the multi-agent groupchat spiral: guardrails that stop agents talking in circles"
+        "Avoiding the multi-agent groupchat spiral: guardrails that stop agents talking in circles",
+        "What MCP actually solves: the MxN integration problem, explained by wrapping one real API"
     ],
     "posts": [
         {
@@ -169,6 +170,13 @@
             "title": "Day 21/30: Avoiding Agent Loops",
             "url": "https://dev.to/yashwanth_kasi/day-2130-avoiding-agent-loops-4hlk",
             "ts": 1785477392
+        },
+        {
+            "day": 22,
+            "topic": "What MCP actually solves: the MxN integration problem, explained by wrapping one real API",
+            "title": "Day 22/30: Solving MxN Integration",
+            "url": "https://dev.to/yashwanth_kasi/day-2230-solving-mxn-integration-4gb9",
+            "ts": 1785563155
         }
     ]
 }
