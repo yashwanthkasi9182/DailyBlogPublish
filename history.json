@@ -22,7 +22,8 @@
         "When agents disagree: building a review/critique loop between two independent agents",
         "Avoiding the multi-agent groupchat spiral: guardrails that stop agents talking in circles",
         "What MCP actually solves: the MxN integration problem, explained by wrapping one real API",
-        "Building your first MCP server: exposing a single tool to any MCP-compatible AI app"
+        "Building your first MCP server: exposing a single tool to any MCP-compatible AI app",
+        "MCP primitives explained: Tools vs Resources vs Prompts, and when to reach for each"
     ],
     "posts": [
         {
@@ -185,6 +186,13 @@
             "title": "Day 23/30: Expose Tools with MCP",
             "url": "https://dev.to/yashwanth_kasi/day-2330-expose-tools-with-mcp-5ak5",
             "ts": 1785649629
+        },
+        {
+            "day": 24,
+            "topic": "MCP primitives explained: Tools vs Resources vs Prompts, and when to reach for each",
+            "title": "Day 24/30: MCP Primitives Explained",
+            "url": "https://dev.to/yashwanth_kasi/day-2430-mcp-primitives-explained-1ldi",
+            "ts": 1785737423
         }
     ]
 }
