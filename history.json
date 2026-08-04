@@ -23,7 +23,8 @@
         "Avoiding the multi-agent groupchat spiral: guardrails that stop agents talking in circles",
         "What MCP actually solves: the MxN integration problem, explained by wrapping one real API",
         "Building your first MCP server: exposing a single tool to any MCP-compatible AI app",
-        "MCP primitives explained: Tools vs Resources vs Prompts, and when to reach for each"
+        "MCP primitives explained: Tools vs Resources vs Prompts, and when to reach for each",
+        "Connecting a LangGraph agent to an MCP server: wiring the two together end to end"
     ],
     "posts": [
         {
@@ -193,6 +194,13 @@
             "title": "Day 24/30: MCP Primitives Explained",
             "url": "https://dev.to/yashwanth_kasi/day-2430-mcp-primitives-explained-1ldi",
             "ts": 1785737423
+        },
+        {
+            "day": 25,
+            "topic": "Connecting a LangGraph agent to an MCP server: wiring the two together end to end",
+            "title": "Day 25/30: Wiring LangGraph to MCP",
+            "url": "https://dev.to/yashwanth_kasi/day-2530-wiring-langgraph-to-mcp-26o6",
+            "ts": 1785821958
         }
     ]
 }
