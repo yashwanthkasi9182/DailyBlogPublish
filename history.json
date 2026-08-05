@@ -24,7 +24,8 @@
         "What MCP actually solves: the MxN integration problem, explained by wrapping one real API",
         "Building your first MCP server: exposing a single tool to any MCP-compatible AI app",
         "MCP primitives explained: Tools vs Resources vs Prompts, and when to reach for each",
-        "Connecting a LangGraph agent to an MCP server: wiring the two together end to end"
+        "Connecting a LangGraph agent to an MCP server: wiring the two together end to end",
+        "Local stdio vs remote Streamable HTTP: picking the right MCP transport for your use case"
     ],
     "posts": [
         {
@@ -201,6 +202,13 @@
             "title": "Day 25/30: Wiring LangGraph to MCP",
             "url": "https://dev.to/yashwanth_kasi/day-2530-wiring-langgraph-to-mcp-26o6",
             "ts": 1785821958
+        },
+        {
+            "day": 26,
+            "topic": "Local stdio vs remote Streamable HTTP: picking the right MCP transport for your use case",
+            "title": "Day 26/30: MCP Transport Options",
+            "url": "https://dev.to/yashwanth_kasi/day-2630-mcp-transport-options-23h7",
+            "ts": 1785908214
         }
     ]
 }
