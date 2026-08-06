@@ -25,7 +25,8 @@
         "Building your first MCP server: exposing a single tool to any MCP-compatible AI app",
         "MCP primitives explained: Tools vs Resources vs Prompts, and when to reach for each",
         "Connecting a LangGraph agent to an MCP server: wiring the two together end to end",
-        "Local stdio vs remote Streamable HTTP: picking the right MCP transport for your use case"
+        "Local stdio vs remote Streamable HTTP: picking the right MCP transport for your use case",
+        "Securing an MCP server: consent flows, scoped credentials, and why trusting the LLM is not a security model"
     ],
     "posts": [
         {
@@ -209,6 +210,13 @@
             "title": "Day 26/30: MCP Transport Options",
             "url": "https://dev.to/yashwanth_kasi/day-2630-mcp-transport-options-23h7",
             "ts": 1785908214
+        },
+        {
+            "day": 27,
+            "topic": "Securing an MCP server: consent flows, scoped credentials, and why trusting the LLM is not a security model",
+            "title": "Day 27/30: Securing MCP Servers",
+            "url": "https://dev.to/yashwanth_kasi/day-2730-securing-mcp-servers-5c9c",
+            "ts": 1785994765
         }
     ]
 }
