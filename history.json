@@ -26,7 +26,8 @@
         "MCP primitives explained: Tools vs Resources vs Prompts, and when to reach for each",
         "Connecting a LangGraph agent to an MCP server: wiring the two together end to end",
         "Local stdio vs remote Streamable HTTP: picking the right MCP transport for your use case",
-        "Securing an MCP server: consent flows, scoped credentials, and why trusting the LLM is not a security model"
+        "Securing an MCP server: consent flows, scoped credentials, and why trusting the LLM is not a security model",
+        "Observability for agents: exactly what to log so a 2am agent failure is debuggable at 2:05am"
     ],
     "posts": [
         {
@@ -217,6 +218,13 @@
             "title": "Day 27/30: Securing MCP Servers",
             "url": "https://dev.to/yashwanth_kasi/day-2730-securing-mcp-servers-5c9c",
             "ts": 1785994765
+        },
+        {
+            "day": 28,
+            "topic": "Observability for agents: exactly what to log so a 2am agent failure is debuggable at 2:05am",
+            "title": "Day 28/30: Debugging Agent Failures",
+            "url": "https://dev.to/yashwanth_kasi/day-2830-debugging-agent-failures-4imm",
+            "ts": 1786078078
         }
     ]
 }
