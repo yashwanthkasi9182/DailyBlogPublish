@@ -28,7 +28,8 @@
         "Local stdio vs remote Streamable HTTP: picking the right MCP transport for your use case",
         "Securing an MCP server: consent flows, scoped credentials, and why trusting the LLM is not a security model",
         "Observability for agents: exactly what to log so a 2am agent failure is debuggable at 2:05am",
-        "Deploying a LangGraph + MCP agent: going from a local script to a service that stays up"
+        "Deploying a LangGraph + MCP agent: going from a local script to a service that stays up",
+        "Capstone: building an end-to-end support-ticket triage agent using everything from this series"
     ],
     "posts": [
         {
@@ -233,6 +234,13 @@
             "title": "Day 29/30: Deploying LangGraph + MCP",
             "url": "https://dev.to/yashwanth_kasi/day-2930-deploying-langgraph-mcp-4l3k",
             "ts": 1786161910
+        },
+        {
+            "day": 30,
+            "topic": "Capstone: building an end-to-end support-ticket triage agent using everything from this series",
+            "title": "Day 30/30: Building End-to-End Support Ticket Triage",
+            "url": "https://dev.to/yashwanth_kasi/day-3030-building-end-to-end-support-ticket-triage-4d0h",
+            "ts": 1786248637
         }
     ]
 }
