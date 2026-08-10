@@ -29,7 +29,8 @@
         "Securing an MCP server: consent flows, scoped credentials, and why trusting the LLM is not a security model",
         "Observability for agents: exactly what to log so a 2am agent failure is debuggable at 2:05am",
         "Deploying a LangGraph + MCP agent: going from a local script to a service that stays up",
-        "Capstone: building an end-to-end support-ticket triage agent using everything from this series"
+        "Capstone: building an end-to-end support-ticket triage agent using everything from this series",
+        "Using MCP's Resource primitive to implement a LangGraph agent's knowledge graph for efficient information retrieval and updating across multiple tool calls and conversation turns."
     ],
     "posts": [
         {
@@ -241,6 +242,13 @@
             "title": "Day 30/30: Building End-to-End Support Ticket Triage",
             "url": "https://dev.to/yashwanth_kasi/day-3030-building-end-to-end-support-ticket-triage-4d0h",
             "ts": 1786248637
+        },
+        {
+            "day": 31,
+            "topic": "Using MCP's Resource primitive to implement a LangGraph agent's knowledge graph for efficient information retrieval and updating across multiple tool calls and conversation turns.",
+            "title": "MCP Resource for LangGraph",
+            "url": "https://dev.to/yashwanth_kasi/mcp-resource-for-langgraph-fl4",
+            "ts": 1786335728
         }
     ]
 }
