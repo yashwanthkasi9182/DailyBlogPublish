@@ -30,7 +30,8 @@
         "Observability for agents: exactly what to log so a 2am agent failure is debuggable at 2:05am",
         "Deploying a LangGraph + MCP agent: going from a local script to a service that stays up",
         "Capstone: building an end-to-end support-ticket triage agent using everything from this series",
-        "Using MCP's Resource primitive to implement a LangGraph agent's knowledge graph for efficient information retrieval and updating across multiple tool calls and conversation turns."
+        "Using MCP's Resource primitive to implement a LangGraph agent's knowledge graph for efficient information retrieval and updating across multiple tool calls and conversation turns.",
+        "Designing a highly available MCP server architecture with automated tool registration and dynamic endpoint routing for large-scale LangGraph agent deployments."
     ],
     "posts": [
         {
@@ -249,6 +250,13 @@
             "title": "MCP Resource for LangGraph",
             "url": "https://dev.to/yashwanth_kasi/mcp-resource-for-langgraph-fl4",
             "ts": 1786335728
+        },
+        {
+            "day": 32,
+            "topic": "Designing a highly available MCP server architecture with automated tool registration and dynamic endpoint routing for large-scale LangGraph agent deployments.",
+            "title": "Scalable MCP Server",
+            "url": "https://dev.to/yashwanth_kasi/scalable-mcp-server-3dei",
+            "ts": 1786421506
         }
     ]
 }
