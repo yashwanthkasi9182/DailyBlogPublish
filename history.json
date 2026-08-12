@@ -31,7 +31,8 @@
         "Deploying a LangGraph + MCP agent: going from a local script to a service that stays up",
         "Capstone: building an end-to-end support-ticket triage agent using everything from this series",
         "Using MCP's Resource primitive to implement a LangGraph agent's knowledge graph for efficient information retrieval and updating across multiple tool calls and conversation turns.",
-        "Designing a highly available MCP server architecture with automated tool registration and dynamic endpoint routing for large-scale LangGraph agent deployments."
+        "Designing a highly available MCP server architecture with automated tool registration and dynamic endpoint routing for large-scale LangGraph agent deployments.",
+        "Evaluating agent effectiveness through indirect objectives: using MCP's Resource primitive to track and optimize a LangGraph agent's long-term conversation goals"
     ],
     "posts": [
         {
@@ -257,6 +258,13 @@
             "title": "Scalable MCP Server",
             "url": "https://dev.to/yashwanth_kasi/scalable-mcp-server-3dei",
             "ts": 1786421506
+        },
+        {
+            "day": 33,
+            "topic": "Evaluating agent effectiveness through indirect objectives: using MCP's Resource primitive to track and optimize a LangGraph agent's long-term conversation goals",
+            "title": "Evaluating Agent Effectiveness",
+            "url": "https://dev.to/yashwanth_kasi/evaluating-agent-effectiveness-2pmf",
+            "ts": 1786509665
         }
     ]
 }
