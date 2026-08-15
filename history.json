@@ -34,7 +34,8 @@
         "Designing a highly available MCP server architecture with automated tool registration and dynamic endpoint routing for large-scale LangGraph agent deployments.",
         "Evaluating agent effectiveness through indirect objectives: using MCP's Resource primitive to track and optimize a LangGraph agent's long-term conversation goals",
         "Implementing a LangGraph agent's episodic memory using MCP's Resource primitive to persist and retrieve context-dependent knowledge across multiple conversations and user interactions.",
-        "Cascading failures in multi-agent systems: using MCP's Tool primitive to detect and recover from downstream service outages in LangGraph agent workflows"
+        "Cascading failures in multi-agent systems: using MCP's Tool primitive to detect and recover from downstream service outages in LangGraph agent workflows",
+        "Optimizing agentic system latency by leveraging MCP's caching mechanisms for frequent tool calls in LangGraph workflows"
     ],
     "posts": [
         {
@@ -281,6 +282,13 @@
             "title": "Cascading Failures in Multi-Agent Systems",
             "url": "https://dev.to/yashwanth_kasi/cascading-failures-in-multi-agent-systems-omd",
             "ts": 1786682527
+        },
+        {
+            "day": 36,
+            "topic": "Optimizing agentic system latency by leveraging MCP's caching mechanisms for frequent tool calls in LangGraph workflows",
+            "title": "Optimizing Latency with MCP Caching",
+            "url": "https://dev.to/yashwanth_kasi/optimizing-latency-with-mcp-caching-359b",
+            "ts": 1786764717
         }
     ]
 }
