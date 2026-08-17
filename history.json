@@ -36,7 +36,8 @@
         "Implementing a LangGraph agent's episodic memory using MCP's Resource primitive to persist and retrieve context-dependent knowledge across multiple conversations and user interactions.",
         "Cascading failures in multi-agent systems: using MCP's Tool primitive to detect and recover from downstream service outages in LangGraph agent workflows",
         "Optimizing agentic system latency by leveraging MCP's caching mechanisms for frequent tool calls in LangGraph workflows",
-        "Postmortem analysis of a LangGraph agent that failed to adapt to a sudden change in a third-party API used by an MCP Tool primitive, and strategies for implementing robustness against similar failures in the future."
+        "Postmortem analysis of a LangGraph agent that failed to adapt to a sudden change in a third-party API used by an MCP Tool primitive, and strategies for implementing robustness against similar failures in the future.",
+        "Mitigating temporal inconsistencies in LangGraph agents using MCP's Resource primitive to synchronize knowledge graphs across concurrent conversation threads and tool invocations."
     ],
     "posts": [
         {
@@ -297,6 +298,13 @@
             "title": "LangGraph API Failure",
             "url": "https://dev.to/yashwanth_kasi/langgraph-api-failure-1i0c",
             "ts": 1786851580
+        },
+        {
+            "day": 38,
+            "topic": "Mitigating temporal inconsistencies in LangGraph agents using MCP's Resource primitive to synchronize knowledge graphs across concurrent conversation threads and tool invocations.",
+            "title": "Synchronizing Knowledge Graphs",
+            "url": "https://dev.to/yashwanth_kasi/synchronizing-knowledge-graphs-1290",
+            "ts": 1786938075
         }
     ]
 }
